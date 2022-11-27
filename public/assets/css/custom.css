@@ -1,0 +1,7 @@
+.inline
+{
+    position: relative;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
